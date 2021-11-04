@@ -1,0 +1,16 @@
+**Database Name: leave_management_system**
+
+
+
+**User(Admin) Login Details**
+
+Username: admin@gmail.com
+Password: admin
+
+**User(Employee) Login Details**
+
+Username: vnaik5902@gmail.com
+Password: 12345
+
+
+
